@@ -9,3 +9,4 @@ Silahkan isi list nama di bawah ini apabila hadir dengan format berikut
 - [Indira Nur Amalia] | [2010631170011]
 - [Fadhillah Ramadhan] | [2010631170066]
 - [Dela Amaliya] | [2010631170062]
+- [Dellia Deltania] | [2010631170063]
